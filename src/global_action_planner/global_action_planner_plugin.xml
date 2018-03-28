@@ -1,0 +1,5 @@
+<library path="lib/libgrid_action_planner">
+    <class name="global_action_planner/grid_action_planner" type="grid_action_planner::GridActionPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+        <description>This is global-action-planner with grid method.</description>
+    </class>
+</library>
